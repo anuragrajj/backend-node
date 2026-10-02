@@ -1,0 +1,25 @@
+{
+  "name": "backend-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragrajj/backend-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anuragrajj/backend-node/issues"
+  },
+  "homepage": "https://github.com/anuragrajj/backend-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
